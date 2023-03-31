@@ -1,4 +1,5 @@
-const result = function () {
+const statement = () => {
   return "This is a Function";
 };
-module.exports = result;
+
+module.exports = statement;
