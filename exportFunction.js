@@ -1,5 +1,4 @@
 const result = function () {
-  return result;
+  return "This is a Function";
 };
-
 module.exports = result;
